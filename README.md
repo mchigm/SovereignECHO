@@ -4,6 +4,20 @@
 
 This concept paper introduces a comprehensive framework for developing a **personalized virtual companion ecosystem** that addresses a critical gap in how younger generations (Gen Z and Gen Alpha) interact with virtual worlds and AI systems. Rather than treating AI assistants as tools, we propose AI companions that function as relational entities -- capable of learning, remembering, and proactively engaging with users in ways that mirror genuine human relationships. This framework integrates artificial intelligence, decentralized infrastructure, and virtual reality into a cohesive system designed for immediate implementation with long-term extensibility toward metaverse integration.
 
+## Relations
+
+This project consists of several steps.  
+
+### Concept steps
+
+1. Make AI talk what user want
+2. Make AI interact with user
+3. AI in metaverse
+
+### Done steps
+
+- (2025 Yueming CHEN et al, Feature Engineering for Speaker Characterisation in Melodic Vocalizations, IEEE ACAI 2025 conference) Making Hatsune Miku talk
+
 ---
 
 ## 1. Problem Background and Gap Analysis
